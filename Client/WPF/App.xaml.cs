@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace SliceOfLife.WPF
+namespace SliceOfLife
 {
     /// <summary>
     /// Interaction logic for App.xaml
