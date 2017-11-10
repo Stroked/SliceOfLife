@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SliceOfLife.Console.Core
+namespace SoL.Core.Model
 {
     public class Artist
     {

@@ -12,9 +12,9 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using MahApps.Metro;
+using MahApps.Metro.Controls;
 
-namespace SliceOfLife
+namespace SliceOfLife.UI
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

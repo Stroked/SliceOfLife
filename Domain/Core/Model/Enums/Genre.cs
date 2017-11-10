@@ -1,6 +1,6 @@
-namespace SliceOfLife.Console
+namespace SoL.Core.Model
 {
-    internal enum Genre
+    public enum Genre
     {
         Electro,
         HipHop,
